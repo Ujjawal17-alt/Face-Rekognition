@@ -5,8 +5,12 @@
 
 ---
 
-## 🚀 **Project Overview**
+## 🚀 **Project Infrastructure **
 
+
+![Screenshot (156)](https://github.com/user-attachments/assets/4356bf0c-b34d-45e4-b75c-b756598c9a03)
+
+## 🚀 **Project Overview**
 - **AWS Infrastructure:**
   - Two **S3 Buckets**:
     - 🗂️ `Employee Pictures`
